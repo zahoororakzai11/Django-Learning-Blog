@@ -1,6 +1,27 @@
+<<<<<<< HEAD
 Django==5.1
 rest_framework_simplejwt==0.0.2
 djangorestframework-simplejwt==5.3.1
 drf-spectacular==0.27.2
 django-filter==24.3
 pyotp==2.9.0
+=======
+<<<<<<< HEAD
+asgiref==3.8.1
+Django==4.2.13
+django-filter==24.2
+djangorestframework==3.15.1
+djangorestframework-simplejwt==5.3.1
+PyJWT==2.8.0
+sqlparse==0.5.0
+typing_extensions==4.12.2
+pytz==2021.1
+=======
+Django==5.1
+rest_framework_simplejwt==0.0.2
+djangorestframework-simplejwt==5.3.1
+drf-spectacular==0.27.2
+django-filter==24.3
+pyotp==2.9.0
+>>>>>>> eeaa7fb (All)
+>>>>>>> e886263 (All)
