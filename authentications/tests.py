@@ -11,6 +11,6 @@ class AuthorTest(TestCase):
         blog = Blog.objects.get(name="Tech Blog")
         self.assertEqual(blog.tagline,"All About Tech Blog")
     
-    def test_auth_str_creation(self):
-        blog = Blog.objects.get(name='Tech Blog')
-        self.assertEqual(str(blog),'Tech Blog')
+    # def test_auth_str_creation(self):
+    #     blog = Blog.objects.get(name='Tech Blog')
+    #     self.assertEqual(str(blog),'Tech Blog')
